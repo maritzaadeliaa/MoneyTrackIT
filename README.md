@@ -34,7 +34,6 @@ Pemantauan perkembangan tabungan
 ### Frontend
 - React.js - UI Framework
 - CSS3 - Styling dan responsive design
-- Chart.js - Data visualization
 - Axios - HTTP client
 
 ### Backend
