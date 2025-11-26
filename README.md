@@ -6,6 +6,26 @@ NRP: 5027241111
 ## Tentang Aplikasi
 MoneyTrack adalah aplikasi web untuk mengelola keuangan pribadi yang membantu pengguna dalam melakukan budget controlling dan tracking pemasukan-pengeluaran. Aplikasi ini dirancang untuk memberikan kontrol penuh atas keuangan dengan antarmuka yang user-friendly dan fitur-fitur lengkap.
 
+## Problem Statement
+
+Banyak individu kesulitan dalam:
+- **Melacak pengeluaran** secara real-time
+- **Memonitor budget** untuk setiap kategori
+- **Merencanakan tabungan** dengan target jelas
+- **Mengelola bukti transaksi** yang tercecer
+- **Mendapatkan insight** keuangan yang actionable
+
+## Solution Overview
+
+MoneyTrack hadir sebagai solusi dengan:
+- **Dashboard terpusat** untuk overview keuangan
+- **Tracking otomatis** pemasukan & pengeluaran
+- **Budget monitoring** per kategori dengan alert
+- **Goal-based saving** dengan progress tracking
+- **Digital receipt management** yang terorganisir
+- **Visual analytics** untuk pengambilan keputusan
+
+  
 ## Fitur Utama
 - Dashboard
 Rangkuman keuangan untuk setiap kategori pengeluaran
