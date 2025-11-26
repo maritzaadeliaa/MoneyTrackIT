@@ -42,6 +42,7 @@ Pemantauan perkembangan tabungan
 - MongoDB - Database
 - Mongoose - ODM untuk MongoDB
 - JWT - Authentication
+- multer (untuk upload gambar)
 
 ## Cara Menjalankan
 Prerequisites
