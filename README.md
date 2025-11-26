@@ -82,4 +82,6 @@ npm run dev
 Akses aplikasi di: http://localhost:5173
 
 ## Video Demo
-[![Demo MoneyTrack](https://img.youtube.com/vi/8AfG70uA2u0/0.jpg)](https://youtu.be/8AfG70uA2u0)
+[![Demo MoneyTrack](https://img.youtube.com/vi/8AfG70uA2u0/hqdefault.jpg)](https://youtu.be/8AfG70uA2u0)
+
+*Klik thumbnail di atas untuk menonton video demo lengkap di YouTube*
