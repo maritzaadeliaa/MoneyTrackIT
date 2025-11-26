@@ -45,39 +45,58 @@ Pemantauan perkembangan tabungan
 
 ## Cara Menjalankan
 Prerequisites
+
 Node.js (v14 atau lebih tinggi)
+
 MongoDB
+
 npm atau yarn
+
 
 ## Installation
 
 ### Clone repository
 git clone [repository-url]
+
 cd moneytrack
+
 npm create vite@latest frontend -- --template react
 
+
 ### Install dependencies backend
+```bash
 cd backend
 npm install
-
+```
 ### Install dependencies frontend  
+```bash
 cd ../frontend
-npm install
 
+npm install
+```
 ### Running the Application
 
 ### Jalankan backend (port 5000)
+```bash
 cd backend
-npm run dev
 
+npm run dev
+```
 ### Jalankan frontend (port 5173)  
-cd frontend
-npm install react-router-dom
-npx tailwindcss init -p
-npm install -D tailwindcss postcss autoprefixer
-npm install axios   
-npm run dev
 
+```bash
+cd frontend
+
+npm install react-router-dom
+
+npx tailwindcss init -p
+
+npm install -D tailwindcss postcss autoprefixer
+
+npm install axios   
+
+npm run dev
+```
 Akses aplikasi di: http://localhost:5173
 
 ## Video Demo
